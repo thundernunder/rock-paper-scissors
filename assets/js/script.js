@@ -39,3 +39,4 @@ submitAnswer.addEventListener('click', function getComputerChoice() {
 });
 
 
+
